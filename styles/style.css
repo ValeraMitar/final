@@ -48,9 +48,13 @@ body header .head .head-search .head-navigation .userPhoto img {
   border-radius: 25px;
 }
 body header .head .head-search .search1 {
-  width: 40%;
+  width: 45%;
   align-items: center;
   height: 100%;
+}
+body header .head .head-search .search1 img {
+  width: 10px;
+  height: 10px;
 }
 body header .head .head-search .faceBook {
   text-decoration: none;
